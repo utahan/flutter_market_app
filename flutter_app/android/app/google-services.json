@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769761843631",
+    "firebase_url": "https://mypet-2b2e8.firebaseio.com",
+    "project_id": "mypet-2b2e8",
+    "storage_bucket": "mypet-2b2e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769761843631:android:47cf4a342f7f312c13b75a",
+        "android_client_info": {
+          "package_name": "com.tahan.mypet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769761843631-a3gonrh923vjuuqgsbbaddijgeiqq1pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmBcEVGeD6d5LiMBEboOHhyg4bUP7beA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769761843631-a3gonrh923vjuuqgsbbaddijgeiqq1pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
